@@ -1,0 +1,12 @@
+sparkcompression\BMAlgorithm.class
+sparkcompression\BMChenAlgorithm.class
+sparkcompression\BPEncoding.class
+sparkcompression\BpeRDD.class
+sparkcompression\PatternTuple.class
+sparkcompression\ChenEncoding.class
+sparkcompression\LzwRDD.class
+sparkcompression\BMTypeAlgorithm.class
+sparkcompression\ClassicRDD.class
+sparkcompression\ChenRDD.class
+sparkcompression\TextTuple.class
+sparkcompression\Main.class
